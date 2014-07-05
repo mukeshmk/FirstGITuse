@@ -1,0 +1,8 @@
+body > p {
+	font-family: Cursive;
+	font-size: 30px;
+	color: red;
+	}
+body p b {
+	color: green;
+	}
